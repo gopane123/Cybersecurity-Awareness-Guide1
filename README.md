@@ -14,3 +14,4 @@ This repository provides a basic cybersecurity incident reporting template and s
 
 ## Contact
 For security emergencies, contact the SOC helpdesk at `soc@zuluglobal.com`.
+<img width="2920" height="2268" alt="image" src="https://github.com/user-attachments/assets/b4415e37-41b3-42ba-9b42-e00df270451c" />
